@@ -25,6 +25,13 @@ public class Admin {
     @OneToOne
 	private Image image;
 
+
+    public Admin(String name, String surname, String address) {
+        this.name = name;
+        this.surname = surname;
+        this.address = address;
+    }
+
     public String getAdminID() {
         return adminID;
     }

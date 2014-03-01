@@ -22,6 +22,7 @@ public class User implements Serializable{
     String password;
     int role;
 
+
     public Long getId() {
         return id;
     }

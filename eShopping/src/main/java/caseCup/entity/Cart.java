@@ -7,6 +7,7 @@ import org.hibernate.annotations.CascadeType;
 
 import javax.persistence.*;
 import java.util.Date;
+import java.util.List;
 import java.util.Set;
 @Entity
 public class Cart {
@@ -18,7 +19,7 @@ public class Cart {
 
     @Cascade({CascadeType.SAVE_UPDATE})
     @OneToMany(fetch = FetchType.EAGER , mappedBy = "cart")  //*****************  not sure ********//
-	private Set<Product> products;
+	private List<Product> products;
 
     @ManyToOne
 	private Customer customer;
@@ -26,6 +27,15 @@ public class Cart {
 	private Date date;
 	private Double totalPrice;
 	private boolean status;
+
+
+    public Cart(List<Product> products, Customer customer, Date date, boolean status) {
+        this.products = products;
+        this.customer = customer;
+        this.date = date;
+        this.totalPrice = totalPrice;
+        this.status = status;
+    }
 
     public String getCartID() {
         return cartID;
@@ -35,11 +45,11 @@ public class Cart {
         this.cartID = cartID;
     }
 
-    public Set<Product> getProducts() {
+    public List<Product> getProducts() {
         return products;
     }
 
-    public void setProducts(Set<Product> products) {
+    public void setProducts(List<Product> products) {
         this.products = products;
     }
 

@@ -27,6 +27,13 @@ public class Customer {
     @OneToOne
 	private Image image;
 
+
+    public Customer(String name, String surname, String address) {
+        this.name = name;
+        this.surname = surname;
+        this.address = address;
+    }
+
     public String getCustomerID() {
         return customerID;
     }

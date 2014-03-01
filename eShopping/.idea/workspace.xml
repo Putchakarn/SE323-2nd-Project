@@ -64,32 +64,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CartController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/CartController.java">
+      <file leaf-file-name="Admin.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Admin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="28" column="57" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1598">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/AdminController.java">
+      <file leaf-file-name="Cart.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Cart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="44" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="31" column="87" selection-start="745" selection-end="745" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1530">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/ProductController.java">
+      <file leaf-file-name="CartDAOImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/CartDAOImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
+            <state line="31" column="7" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1275">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,36 +96,25 @@
       <file leaf-file-name="UserController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1241">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdminService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/service/AdminService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="7" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+            <state line="38" column="15" selection-start="1120" selection-end="1152" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminServiceImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/service/AdminServiceImpl.java">
+      <file leaf-file-name="CustomerCDAO.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/CustomerCDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="27" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="629">
+            <state line="10" column="25" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Admin.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Admin.java">
+      <file leaf-file-name="Product.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="4" selection-start="416" selection-end="457" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1530">
+            <state line="33" column="5" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1445">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,7 +125,30 @@
       <file leaf-file-name="Customer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="26" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1632">
+            <state line="27" column="21" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1683">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Loader.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/util/Loader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="22" selection-start="1557" selection-end="1557" vertical-scroll-proportion="-0.13712375" vertical-offset="796" max-vertical-offset="2159">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2392#2402#0" expanded="true" />
+                <element signature="e#2908#2917#0" expanded="true" />
+                <element signature="e#3035#3044#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartFormatter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/formatter/CartFormatter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="15" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="748">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,19 +156,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Image.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Image.java">
+      <file leaf-file-name="CartServiceImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/service/CartServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="3" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="867">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="13" selection-start="460" selection-end="460" vertical-scroll-proportion="0.33687943" vertical-offset="133" max-vertical-offset="731">
+            <state line="40" column="17" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
               <folding />
             </state>
           </provider>
@@ -220,6 +219,12 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/security/login.jsp" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/caseCup/entity/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/caseCup/entity/Admin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/caseCup/entity/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/caseCup/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/caseCup/entity/Cart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/caseCup/util/Loader.java" />
       </list>
     </option>
   </component>
@@ -229,24 +234,6 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="eShopping" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="eShopping" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
@@ -424,6 +411,10 @@
               <option name="myItemId" value="caseCup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -511,6 +502,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eShopping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eShopping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="caseCup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -551,8 +572,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -568,9 +589,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="caseCup.util" />
       <recent name="service.security" />
       <recent name="controller" />
       <recent name="entity" />
@@ -811,14 +834,15 @@
       <created>1393615374828</created>
       <updated>1393615374828</updated>
       <workItem from="1393615377497" duration="9593000" />
+      <workItem from="1393667549505" duration="2718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9593000" />
+    <option name="totallyTimeSpent" value="12311000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -831,24 +855,24 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31502423" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.05654281" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2714055" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2714055" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -872,6 +896,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="13" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/CartDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="38" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
@@ -881,18 +912,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/CustomerCDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="25" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/ProductCDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="23" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="10" column="23" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/service/CartService.java">
@@ -915,9 +937,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/CustomerDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="6" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <folding />
-        </state>
+        <state line="8" column="6" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/ProductDAO.java">
@@ -938,51 +958,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Cart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="14" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1785">
-          <folding>
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#898#899#0" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-            <element signature="e#1006#1007#0" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-            <element signature="e#1096#1097#0" expanded="true" />
-            <element signature="e#1125#1126#0" expanded="true" />
-            <element signature="e#1152#1153#0" expanded="true" />
-            <element signature="e#1190#1191#0" expanded="true" />
-            <element signature="e#1222#1223#0" expanded="true" />
-            <element signature="e#1259#1260#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-            <element signature="e#1344#1345#0" expanded="true" />
-            <element signature="e#1388#1389#0" expanded="true" />
-            <element signature="e#1421#1422#0" expanded="true" />
-            <element signature="e#1450#1451#0" expanded="true" />
-            <element signature="e#1495#1496#0" expanded="true" />
-            <element signature="e#1531#1532#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="22" selection-start="491" selection-end="491" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1377">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/service/ProductService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="19" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="782">
@@ -994,18 +969,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/UserDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="5" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
+        <state line="13" column="5" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/UserDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="14" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="48" max-vertical-offset="646">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="21" column="14" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="48" max-vertical-offset="646" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/service/UserService.java">
@@ -1017,9 +986,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eShopping.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/AdminDAOImpl.java">
@@ -1037,22 +1004,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/CartDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="7" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0" vertical-offset="333" max-vertical-offset="1275">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/service/CartServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="22" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.0" vertical-offset="664" max-vertical-offset="1241">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1092,15 +1043,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/formatter/CartFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="15" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="748">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="36" selection-start="1292" selection-end="1292" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="714">
@@ -1110,11 +1052,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/security/LoginLogoutController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="34" selection-start="689" selection-end="689" vertical-scroll-proportion="0.0" vertical-offset="643" max-vertical-offset="1207">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="26" column="34" selection-start="689" selection-end="689" vertical-scroll-proportion="0.0" vertical-offset="643" max-vertical-offset="1207" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-security.xml">
@@ -1140,9 +1078,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/CartCDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
+        <state line="10" column="21" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring.properties">
@@ -1182,9 +1118,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/security/deniedpage.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/security/login.jsp">
@@ -1198,51 +1132,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="196" column="40" selection-start="6303" selection-end="6303" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3604">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/CustomerContoller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="59" selection-start="789" selection-end="789" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="799">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/CartController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/AdminController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="44" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1241">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1260,21 +1149,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Admin.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/AdminController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="4" selection-start="416" selection-end="457" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2006">
+        <state line="14" column="44" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/CustomerContoller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="59" selection-start="789" selection-end="789" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="799">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Customer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="26" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1632">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="7" column="13" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1285,10 +1186,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="57" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/service/CartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="17" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/CartDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="7" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1275">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="87" selection-start="745" selection-end="745" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="21" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1683">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="460" selection-end="460" vertical-scroll-proportion="0.33687943" vertical-offset="133" max-vertical-offset="731">
+        <state line="23" column="4" selection-start="465" selection-end="465" vertical-scroll-proportion="0.3846154" vertical-offset="110" max-vertical-offset="748">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/formatter/CartFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="15" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="748">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="15" selection-start="1120" selection-end="1152" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/dao/CustomerCDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="25" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/entity/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="5" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1445">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/caseCup/util/Loader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="22" selection-start="1557" selection-end="1557" vertical-scroll-proportion="-0.13712375" vertical-offset="796" max-vertical-offset="2159">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2392#2402#0" expanded="true" />
+            <element signature="e#2908#2917#0" expanded="true" />
+            <element signature="e#3035#3044#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

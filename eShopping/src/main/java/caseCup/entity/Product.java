@@ -25,6 +25,14 @@ public class Product {
     @OneToOne
     private Image image;
 
+
+    public Product(String name, String brand, double price, String description) {
+        this.name = name;
+        this.brand = brand;
+        this.price = price;
+        this.description = description;
+    }
+
     public Image getImage() {
         return image;
     }
