@@ -29,7 +29,7 @@ public class Cart {
 	private boolean status;
 
 
-    public Cart(List<Product> products, Customer customer, Date date, boolean status) {
+    public Cart(List<Product> products, Customer customer, Date date,Double totalPrice, boolean status) {
         this.products = products;
         this.customer = customer;
         this.date = date;

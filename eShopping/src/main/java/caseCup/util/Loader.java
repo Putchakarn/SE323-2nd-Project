@@ -78,8 +78,8 @@ public class Loader implements ApplicationListener<ContextRefreshedEvent> {
 
 
 
-            Cart cart1 = new Cart(products1,c,Calendar.getInstance().getTime(),true);
-            Cart cart2 = new Cart(products2,b,Calendar.getInstance().getTime(),true);
+            Cart cart1 = new Cart(products1,c,Calendar.getInstance().getTime(),600.00,true);
+            Cart cart2 = new Cart(products2,b,Calendar.getInstance().getTime(),600.00,true);
 
 
 
